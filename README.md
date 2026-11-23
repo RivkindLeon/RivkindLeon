@@ -10,6 +10,7 @@ Most of my professional code is in private or company repositories. These public
 
 ## Selected projects
 
+- [Agent Monitor](https://github.com/RivkindLeon/agent-monitor) — deterministic progress monitor for AI coding agents (Claude Code, Codex CLI): four independent axes — liveness, integrity, progress, verification — measured from git and process state, not from the agent's own claims. No LLM, no dependencies.
 - [Sprint Intelligence Agent](https://github.com/RivkindLeon/sprint-intelligence-agent) — evidence-first engineering sprint intelligence: deterministic analytics and a foundation for LLM reasoning.
 - [Agent Office](https://github.com/RivkindLeon/agent-office) — experimental multi-agent organization runtime with role-based agents, review gates, durable state, and event journals.
 - [Character Consistency Lab](https://github.com/RivkindLeon/character-consistency-lab) — reproducible experiments for preserving character identity across AI-generated images.
